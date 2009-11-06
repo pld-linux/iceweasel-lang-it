@@ -2,12 +2,12 @@
 Summary:	Italian resources for Iceweasel
 Summary(pl.UTF-8):	Włoskie pliki językowe dla Iceweasela
 Name:		iceweasel-lang-%{_lang}
-Version:	3.5.4
+Version:	3.5.5
 Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	7d1a96e8fd1cc04280bf330bd7875174
+# Source0-md5:	d0462d590ef8dd900204fd6d36328e91
 URL:		http://www.mozilla.org/
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
